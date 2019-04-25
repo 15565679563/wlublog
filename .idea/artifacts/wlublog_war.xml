@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wlublog:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="wlublog.war">
+      <element id="artifact" artifact-name="wlublog:war exploded" />
+    </root>
+  </artifact>
+</component>
